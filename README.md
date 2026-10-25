@@ -1,4 +1,4 @@
-### Hi, I'm Jeremy (KI6UIT) 👋
+### Hi, I'm Jeremy (KI6UIT)
 
 These repositories are projects I use every day on my own computer and in my
 ham shack. I've shared them in the hope that someone else finds them useful.
